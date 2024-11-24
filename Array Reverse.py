@@ -1,7 +1,7 @@
 https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/reverse-an-array
 
 """
-ou are given an array of integers arr[]. Your task is to reverse the given array.
+you are given an array of integers arr[]. Your task is to reverse the given array.
 
 Examples:
 
